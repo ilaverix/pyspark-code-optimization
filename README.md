@@ -25,7 +25,7 @@ $ ipython profile create
 
 $ echo "c.InteractiveShellApp.extensions.append('sparkmonitor.kernelextension')" >>  $(ipython profile locate default)/ipython_kernel_config.py
 
-6-Restart Kernel from Jupiter Notebooks.
+6-Restart PySpark Kernel from Jupiter Notebooks.
 
 
 
